@@ -1,0 +1,43 @@
+body {
+  background-color: rgb(236, 206, 31);
+}
+
+img {
+  width: 300px;
+}
+
+h1 {
+  text-align: center;
+  background-color: rgb(151, 18, 62);
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+button {
+  margin-top: 10px;
+  width: 150px;
+  height: 40px;
+}
+
+.container {
+  text-align: center;
+  font-size: larger;
+  background-color: whitesmoke;
+  min-width: 90%;
+  width: auto;
+  height: 400px;
+}
+
+.question {
+  text-align: start;
+  color: black;
+}
+
+.response {
+  text-align: end;
+  color: black;
+}
