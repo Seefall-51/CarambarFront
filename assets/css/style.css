@@ -30,14 +30,20 @@ button {
   min-width: 90%;
   width: auto;
   height: 400px;
+  padding: 10px;
 }
 
 .question {
   text-align: start;
-  color: black;
+  margin: 10px;
+  color: blue;
+  background-color: grey;
+
 }
 
 .response {
   text-align: end;
-  color: black;
+  margin: 10px;
+  color: red;
+  background-color: grey;
 }
